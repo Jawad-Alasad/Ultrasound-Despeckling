@@ -1,3 +1,3 @@
 # Ultrasound-Despeckling
 Ultrasound Image Restoration
-Leading file is main. other files are supporting functions.
+Leading file is Main. other files are supporting functions.
